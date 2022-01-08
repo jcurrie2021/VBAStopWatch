@@ -16,12 +16,12 @@ The stopwatch is a form driven VBA application that simply records the elapsed t
   (note: it is important that you name the forms and controls as defined in these instructions, otherwise the code won't match with your controls and will never be executed.) 
 The form should look like this:
 ![Form Stop Watch](FrmStopwatch2.png)
-7. Add 5 command buttons to the form (frmStopwatch). Name them as follows:
-cmdStart
-cmdStop
-cmdLog
-cmdClear
-cmdClose
+7. Add 5 command buttons to the form (frmStopwatch). Show in red above. Name them as follows:
+cmdStart,
+cmdStop,
+cmdLog,
+cmdClear,
+cmdClose,
 8. Add 3 labels to the form (frmStopwatch). Name them as follows:
 lblTime1
 lblTime2
