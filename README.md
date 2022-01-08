@@ -17,15 +17,15 @@ The stopwatch is a form driven VBA application that simply records the elapsed t
   (note: it is important that you name the form and controls as defined in these instructions, otherwise the code won't match with your controls and will never be executed.) 
 The form should look like this:
 ![Form Stop Watch](FrmStopwatch2.png)
-7. Add 5 command buttons to the form (frmStopwatch). Show in red above. Name them as follows:
+8. Add 5 command buttons to the form (frmStopwatch). Shown above in red above. Name them as follows:
 cmdStart,cmdStop,cmdLog,cmdClear,cmdClose,
-8. Add 3 labels to the form (frmStopwatch). Name them as follows:
+9. Add 3 labels to the form (frmStopwatch). Name them as follows:
 lblTime1,lblTime2,lblEtime
-9. Import the "mod_Stopwatch.bas" file.
-10. Run the "Test" subroutine in the module and repair any naming errors that might occur.
-11. Open the text file SWFormCode.txt in a text editor and copy all contents into the clipboard 
-12. In VBA project explorer, right click on Forms | FrmStopwatch and select View Code
-13. Delete all existing code in the form and paste the contents from SWFormCode.txt in its place
-14. Go to the workbook and run the macro "ShowSW". 
-15. Test the form clicking the Start button, waiting a few seconds then clicking the Stop button. Click the Log button to pass the values in the Log worksheet. 
+10. Import the "mod_Stopwatch.bas" file.
+11. Run the "Test" subroutine in the module and repair any naming errors that might occur.
+12. Open the text file SWFormCode.txt in a text editor and copy all contents into the clipboard 
+13. In VBA project explorer, right click on Forms | FrmStopwatch and select View Code
+14. Delete all existing code in the form and paste the contents from SWFormCode.txt in its place
+15. Go to the workbook and run the macro "ShowSW". 
+16. Test the form clicking the Start button, waiting a few seconds then clicking the Stop button. Click the Log button to pass the values in the Log worksheet. 
 
