@@ -27,5 +27,5 @@ lblTime1,lblTime2,lblEtime
 13. In VBA project explorer, right click on Forms | FrmStopwatch and select View Code
 14. Delete all existing code in the form and paste the contents from SWFormCode.txt in its place
 15. Go to the workbook and run the macro "ShowSW". 
-16. Test the form clicking the Start button, waiting a few seconds then clicking the Stop button. Click the Log button to pass the values in the Log worksheet. 
+16. Test the form by clicking the Start button, waiting a few seconds then clicking the Stop button. Click the Log button to pass the values in the Log worksheet. 
 
