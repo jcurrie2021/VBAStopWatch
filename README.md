@@ -15,6 +15,7 @@ The stopwatch is a form driven VBA application that simply records the elapsed t
 6. Create a userform and name it: frmStopwatch
   (note: it is important that you name the forms and controls as defined in these instructions, otherwise the code won't match with your controls and will never be executed.) 
 ![Form Stop Watch](FrmStopwatch2.png)
+
 7. Add 5 command buttons to the form (frmStopwatch). Name them as follows:
 cmdStart
 cmdStop
