@@ -13,7 +13,7 @@ The stopwatch is a form driven VBA application that simply records the elapsed t
 4. Create SWEEWB1.xlsx workbook an "Save As" SWEEWB1.xlsm (macro enabled workbook type)
 5. Click on the “Developer” tab to access the “Visual Basic” code window. Click on the “Visual Basic” icon. (the “Microsoft Visual Basic for Applications” window appears).
 6. Create a userform and name it: frmStopwatch
-  (note: it is important that you name the forms and controls as defined in these instructions, otherwise the code won't match with your controls and will never be executed.) 
+  (note: it is important that you name the form and controls as defined in these instructions, otherwise the code won't match with your controls and will never be executed.) 
 The form should look like this:
 ![Form Stop Watch](FrmStopwatch2.png)
 7. Add 5 command buttons to the form (frmStopwatch). Show in red above. Name them as follows:
