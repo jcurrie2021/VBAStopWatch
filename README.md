@@ -21,11 +21,18 @@ The form should look like this:
 cmdStart,cmdStop,cmdLog,cmdClear,cmdClose,
 9. Add 3 labels to the form (frmStopwatch). Name them as follows:
 lblTime1,lblTime2,lblEtime
-10. Import the "mod_Stopwatch.bas" file.
-11. Run the "Test" subroutine in the module and repair any naming errors that might occur.
-12. Open the text file SWFormCode.txt in a text editor and copy all contents into the clipboard 
-13. In VBA project explorer, right click on Forms | FrmStopwatch and select View Code
-14. Delete all existing code in the form and paste the contents from SWFormCode.txt in its place
-15. Go to the workbook and run the macro "ShowSW". 
-16. Test the form by clicking the Start button, waiting a few seconds then clicking the Stop button. Click the Log button to pass the values in the Log worksheet. 
+10. Change captions on the userform and command buttons:</br>
+frmStopwatch = Stop Watch</br>
+cmdStart = Start</br>
+cmdStop = Stop</br>
+cmdLog = Log Time</br>
+cmdClear = Clear</br>
+cmdClose = Close</br>
+11. Import the "mod_Stopwatch.bas" file.
+12. Run the "Test" subroutine in the module and repair any naming errors that might occur.
+13. Open the text file SWFormCode.txt in a text editor and copy all contents into the clipboard 
+14. In VBA project explorer, right click on Forms | FrmStopwatch and select View Code
+15. Delete all existing code in the form and paste the contents from SWFormCode.txt in its place
+16. Go to the workbook and run the macro "ShowSW". 
+17. Test the form by clicking the Start button, waiting a few seconds then clicking the Stop button. Click the Log button to pass the values in the Log worksheet. 
 
