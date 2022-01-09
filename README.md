@@ -19,8 +19,10 @@ The form should look like this:
 ![Form Stop Watch](FrmStopwatch2.png)
 8. Add 5 command buttons to the form (frmStopwatch). Shown above in red above. Name them as follows:
 cmdStart,cmdStop,cmdLog,cmdClear,cmdClose,
-9. Add 3 labels to the form (frmStopwatch). Name them as follows:
-lblTime1,lblTime2,lblEtime
+9. Add 3 labels to the form (frmStopwatch). Add borders to labels and remove any caption. Name the controls as follows:
+lblTime1</br>
+lblTime2</br>
+lblEtime
 10. Change captions on the userform and command buttons:</br>
 frmStopwatch = Stop Watch</br>
 cmdStart = Start</br>
