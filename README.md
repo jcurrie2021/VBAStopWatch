@@ -1,6 +1,6 @@
 # VBAStopWatch
 # This repository contains the files necessary to follow the tutorial on making an Excel VBA stopwatch.
-The stopwatch is a form driven VBA application that simply records the elapsed time since the start button was pressed. It's designed to measure speed progress in building the Excel workbooks found in the https://www.sharexl.com lessons. By practicing building workbooks using accelerator keys and programmed mouse buttons the student can greatly reduce the amount of time spent constructing these workbooks. This exercise is not only about building a StopWatch, but following instructions to the letter. (I'm assuming that my instructions are clear and correct)
+The stopwatch is a form driven VBA application that simply records the elapsed time since the start button was pressed. It's designed to measure speed progress in building the Excel workbooks found in the https://www.sharexl.com lessons. Using accelerator keys and programmed mouse buttons, the student can greatly reduce the amount of time spent constructing the workbooks. This stop watch lets the student quantify and log changes in speed performance. This exercise is not only about building a StopWatch, but following instructions to the letter. (I'm assuming that my instructions are clear and correct)
 # Prerequisites:
 1. The Developer tab must be visible in Excel. <br>
   Expose Excel Developer tab on Ribbon. Youtube: (https://www.youtube.com/watch?v=JLQ8OuW0FlY)
