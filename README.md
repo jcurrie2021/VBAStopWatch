@@ -17,7 +17,7 @@ The stopwatch is a VBA form driven application that simply records elapsed time 
   (note: it is important that you name the form and controls as defined in these instructions, otherwise the code won't match with your controls and will never be executed.) 
 The form should look like this:
 ![Form Stop Watch](FrmStopwatch2.png)
-8. Having the form properties windows open, set the frmStopwatch (the userform) ShowModal property to false. (note: When ShowModal = false, the user can interact with the workbook. Otherwise, the form must be dismissed to access the workbook.).This is also a good time to set the form's caption to Stop Watch.
+8. Having the form properties windows open, set the frmStopwatch (the userform) ShowModal property to false. (note: When ShowModal = false, the user can interact with the workbook. Otherwise, the form must be dismissed to access the workbook.).This is also a good time to set the form's caption to read "Stop Watch".
 9. Add 5 command buttons to the form (frmStopwatch). Shown above in red above. Name them as follows:</br>
 cmdStart</br>
 cmdStop</br>
